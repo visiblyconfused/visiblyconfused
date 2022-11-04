@@ -1,3 +1,3 @@
 <p align="right">
-<img src="https://raw.githubusercontent.com/visiblyconfused/visiblyconfused/main/New%20Project.png" alt="drawing" width="600"/>
+<img src="https://raw.githubusercontent.com/visiblyconfused/visiblyconfused/main/New%20Project.png" alt="drawing" width="650"/>
 </p>
